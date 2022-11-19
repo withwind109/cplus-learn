@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/cdtangchao/Documents/GitHub/cplus-learn/ipscan/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -o CMakeFiles/ipscan.dir/main.cpp.o -c /Users/cdtangchao/Documents/GitHub/cplus-learn/ipscan/main.cpp",
+  "file": "/Users/cdtangchao/Documents/GitHub/cplus-learn/ipscan/main.cpp"
+}
+]

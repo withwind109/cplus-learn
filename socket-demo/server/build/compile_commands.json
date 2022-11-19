@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/cdtangchao/Documents/GitHub/cplus-learn/socket-demo/server/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -o CMakeFiles/server.dir/main.cpp.o -c /Users/cdtangchao/Documents/GitHub/cplus-learn/socket-demo/server/main.cpp",
+  "file": "/Users/cdtangchao/Documents/GitHub/cplus-learn/socket-demo/server/main.cpp"
+},
+{
+  "directory": "/Users/cdtangchao/Documents/GitHub/cplus-learn/socket-demo/server/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -o CMakeFiles/server.dir/SektServer.cpp.o -c /Users/cdtangchao/Documents/GitHub/cplus-learn/socket-demo/server/SektServer.cpp",
+  "file": "/Users/cdtangchao/Documents/GitHub/cplus-learn/socket-demo/server/SektServer.cpp"
+}
+]
